@@ -55,5 +55,10 @@ namespace LifeCounterGUI
         {
 
         }
+
+        private void BornLabel_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
